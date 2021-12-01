@@ -12,7 +12,7 @@ Following is an indepent research projects which I am currently working on and i
 
 Following is my work experience at Sapient Shopping, Inc:-
 <p>
-<ul><li><b> Weapons and objects detection using deep learning:-</b> </li> This is a security application in which detects weapons such as rifles, hand guns, tanks etc, along with other objects such as vehicles, human beings, animals, etc to generate an Amber alert to  stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application I built and trained models to detect various different objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone).</p>
+<ul><li><b> Weapons and objects detection using deep learning:-</b> </li> This is a security application in which detects weapons such as rifles, hand guns, tanks etc, along with other objects such as vehicles, human beings, animals, etc to generate an Amber alert to  stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application I built and trained models to detect various different objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone).
 <p>
 <li><b> Stroke and fibrillation detection(using rPPG):- </b></li> A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke occured in the past and prediction for future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning in which I used a camera device i.e. a person's face through a camera and is fed to the fibrillation detection algorithm. </p>
 <p>
