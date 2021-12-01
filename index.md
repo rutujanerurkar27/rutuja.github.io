@@ -2,7 +2,7 @@
 I am a disciplined and passionate individual who is eager to hike my research knowledge, which will allow me to utilize the acquired skills to improve healthcare using computational biology.
 
 <h2> Research experience and projects </h2>
-I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions. <p></p>
+I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions.
 
 Following is an indepent research projects which I am currently working on and intending to expand it to the user:-
 <ul>
