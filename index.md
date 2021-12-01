@@ -7,7 +7,7 @@ I have been working in the industry as an AI developer for past 3+ years. My are
 Following is an indepent research projects which I am currently working on and intending to expand it to the user:-
 <ul>
 <p>
-<li><b>Chroninc kidney detection</b>(I am currently actively working on this project):- </li>  I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. I am currently working on performing the module for conducting the urine test and blood test using a smartphone so that the user can use the application at their convenience. </p>
+<li><b>Chroninc kidney disease detection</b>(I am currently actively working on this project):- </li>  I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. I am currently working on performing the module for conducting the urine test and blood test using a smartphone so that the user can use the application at their convenience. </p>
 </ul>
 
 Following is my work experience at Sapient Shopping, Inc:-
