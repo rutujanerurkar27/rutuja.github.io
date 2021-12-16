@@ -32,6 +32,8 @@ Following is my work experience at Sapient Shopping, Inc:-
 
    ![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
    
+   (Note:- the above is an agent representation of healthcare device movesense)
+
 Projects which I worked on working as Research assistant:-
 <ul>
 <p>
