@@ -1,5 +1,5 @@
 # Rutuja Nerurkar 
-I am a disciplined and passionate individual who is eager to hike my research knowledge, which will allow me to utilize the acquired skills to improve healthcare using computational biology.
+I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using ubiquitous computing.
 
 ### Research experience and projects 
 I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions.
@@ -32,8 +32,6 @@ Following is my work experience at Sapient Shopping, Inc:-
 
    ![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
    
-
-
 Projects which I worked on working as Research assistant:-
 <ul>
 <p>
