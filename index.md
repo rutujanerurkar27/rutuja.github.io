@@ -15,12 +15,12 @@ I have worked on creating a machine learning model which predicts CKD in the ear
 
 Following is my work experience at Sapient Shopping, Inc:-
 
-1. Weapons and objects detection using deep learning:-</b> </li> This is a security application in which detects weapons such as rifles, hand guns, tanks etc, along with other objects such as vehicles, human beings, animals, etc to generate an Amber alert to  stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application I built and trained models to detect various different objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone).
+1. Weapons and objects detection using deep learning:- This is a security application in which detects weapons such as rifles, hand guns, tanks etc, along with other objects such as vehicles, human beings, animals, etc to generate an Amber alert to  stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application I built and trained models to detect various different objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone).
 
       ![CASPER (1)](https://user-images.githubusercontent.com/30424951/146305410-42ee0089-0fe8-40b7-9670-2d7494dec3bc.png)   ![rifle_detection (1)](https://user-images.githubusercontent.com/30424951/146309239-13099a99-e921-4866-8f09-e001d4554e36.png)
-2. Stroke and fibrillation detection(using rPPG):- </b></li> A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke occured in the past and prediction for future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning in which I used a camera device i.e. a person's face through a camera and is fed to the fibrillation detection algorithm.
+2. Stroke and fibrillation detection(using rPPG):- A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke occured in the past and prediction for future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning in which I used a camera device i.e. a person's face through a camera and is fed to the fibrillation detection algorithm.
 
-   ![stroke_parameters](https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png) ![stroke (1)](https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png)
+   ![stroke_parameters](https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png) ![stroke (1)](https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png) ![fibrilation_detection (1)](https://user-images.githubusercontent.com/30424951/146459980-15da690b-d233-46a6-806c-911506a60bbe.png)
 
 3. Fall Detection:- This is also a health care application in which I collected the sensor data using two accelerometer based devices such as android phone, movesense smart device and after gathering the sensor data it is fed to an algorithm to predict if the person has fallen and generate an emergency SOS call. The accuracy of fall detection is 98%.
 
@@ -37,7 +37,7 @@ Following is my work experience at Sapient Shopping, Inc:-
 Projects which I worked on working as Research assistant:-
 <ul>
 <p>
-<li><b>Gesture recognition using deep learning:-</b></li> This is a deep learning application which recognizes the human gestures which are used to give commands to a robot. </p>
+<li><b>Gesture recognition using deep learning:- This is a deep learning application which recognizes the human gestures which are used to give commands to a robot. </p>
 </ul>
 
 #### Skills and Interests
