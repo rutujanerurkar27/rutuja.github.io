@@ -35,10 +35,8 @@ Following is my work experience at Sapient Shopping, Inc:-
    (Note:- the above is an agent representation of healthcare device movesense)
 
 Projects which I worked on working as Research assistant:-
-<ul>
-<p>
-<li><b>Gesture recognition using deep learning:- This is a deep learning application which recognizes the human gestures which are used to give commands to a robot. </p>
-</ul>
+
+Gesture recognition using deep learning:- This is a deep learning application which recognizes the human gestures which are used to give commands to a robot.
 
 #### Skills and Interests
 <li>Machine Learning</li>
