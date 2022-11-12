@@ -28,7 +28,10 @@ Following is my work experience at Sapient Shopping, Inc:-
 
    ![1 (1)](https://user-images.githubusercontent.com/30424951/146310349-2550b80c-953d-4d5d-83f8-02a09be1611b.jpg) ![2 (1)](https://user-images.githubusercontent.com/30424951/146310351-803a7cf3-d23d-492d-8634-ec03035e7a84.jpg) ![3 (1)](https://user-images.githubusercontent.com/30424951/146310353-e35945ae-7a4c-4cda-84cb-7b894523c856.jpg) ![4 (1)](https://user-images.githubusercontent.com/30424951/146310355-ad540d47-c12c-4ff0-a0d1-024ce628c25c.jpg) ![5 (1)](https://user-images.githubusercontent.com/30424951/146310356-f2374426-bf0b-4502-868f-3a238ec43ba7.jpg) ![6 (1)](https://user-images.githubusercontent.com/30424951/146310357-72404166-62d7-48a7-bbe9-e60a26dbbf80.jpg) ![HeartPulseDetection (1)](https://user-images.githubusercontent.com/30424951/146310358-bcb7a2fb-5f27-4b84-b90d-6858aa7544ed.jpg)
 
-5. AI Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication.
+5. Lungs segmentation :- An Image processing application for segmenting the lungs from the rest of the image data
+![lungs_segmentation1](https://user-images.githubusercontent.com/30424951/201451829-78c8f956-d2d8-45c3-9813-d5e0027eb47d.png) ![lungs_segmentation](https://user-images.githubusercontent.com/30424951/201451853-78e036f1-d847-4bbf-8d6e-83a87bcf9254.png)
+
+I Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication.
 
    ![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
    
