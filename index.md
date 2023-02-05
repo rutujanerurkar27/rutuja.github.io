@@ -6,10 +6,14 @@ I have been working in the industry as an AI developer for past 3+ years. My are
 
 ### Independent projects:- 
 Following are indepent research projects which I have worked on in the past as well as present:-
-1. Chronic kidney disease detection(I am currently actively working on completing this project):- 
-I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. I am currently working on performing the module for conducting the urine test and blood test using a smartphone so that the user can use the application at their convenience.
+1. Chronic kidney disease detection/ CKI analysis:- 
+I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. Performed a kidney segmentation which has following results
 
-2. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
+![Screenshot from 2023-01-24 23-19-15](https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png) 
+![Screenshot from 2023-01-24 23-19-41](https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png)
+
+
+3. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
 
    ![output_project](https://user-images.githubusercontent.com/30424951/146312318-e75bac64-054b-48af-84e1-882baed002c1.png)
 
