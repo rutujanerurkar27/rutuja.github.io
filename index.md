@@ -2,15 +2,14 @@
 I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using my artificial intelligence and machine learning skills.
 
 ### Research experience and projects 
-I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions.
+I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions and development of image processing pipelines for medical imaging analysis.
 
 ### Independent projects:- 
 Following are indepent research projects which I have worked on in the past as well as present:-
-1. Chronic kidney disease detection/ CKI analysis:- 
+1. Chronic Kidney Disease detection/AKI analysis:- 
 I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. Performed a kidney segmentation which has following results
 
-![Screenshot from 2023-01-24 23-19-15](https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png) 
-![Screenshot from 2023-01-24 23-19-41](https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png)
+      <img src = "https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png" width="200" height="200">
 
 
 3. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
@@ -39,7 +38,7 @@ Following is my work experience at Sapient Shopping, Inc:-
 
    ![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
    
-   (Note:- the above is an agent representation of healthcare device movesense)
+   (Note:- the above is an agent representation of healthcare device Movesense)
 
 Projects which I worked on working as Research assistant:-
 
