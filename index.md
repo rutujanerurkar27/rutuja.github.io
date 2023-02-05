@@ -1,5 +1,5 @@
 # Rutuja Nerurkar 
-I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using ubiquitous computing.
+I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using my artificial intelligence and machine learning skills.
 
 ### Research experience and projects 
 I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions.
