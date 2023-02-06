@@ -4,7 +4,7 @@ I am a disciplined and passionate individual who is eager to hike my research sk
 ### Research experience and projects 
 I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning and deep learning. I am mainly into researching computaional biology solutions and development of image processing pipelines for medical imaging analysis.
 
-### Independent projects:- 
+### Research projects:- 
 Following are indepent research projects which I have worked on in the past as well as present:-
 1. Chronic Kidney Disease detection/AKI analysis:- 
 I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. This project is still in progress. Performed a kidney segmentation which has following results
