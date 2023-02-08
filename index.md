@@ -12,7 +12,7 @@ I have worked on creating a machine learning model which predicts CKD in the ear
 
 For this project, I have also performed a kidney segmentation using Image processing for AKI/kidney tumor segmentation and achieved following results
 
-   <img src = "https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png" width="200" height="200">
+   <img src = "https://user-images.githubusercontent.com/30424951/217444988-30666d11-e588-4a2f-aa15-88bf9efd2e7a.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/217445228-5fad22f7-19ef-42b3-b2a6-cefc7884bd6b.png" width="200" height="200">
 
 
 2. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
