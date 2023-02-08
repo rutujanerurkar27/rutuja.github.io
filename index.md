@@ -39,7 +39,7 @@ For this project, I have also performed a kidney segmentation using Image proces
    <img src = "https://user-images.githubusercontent.com/30424951/146310349-2550b80c-953d-4d5d-83f8-02a09be1611b.jpg" width="200" height="200"> <img src ="https://user-images.githubusercontent.com/30424951/146310351-803a7cf3-d23d-492d-8634-ec03035e7a84.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310353-e35945ae-7a4c-4cda-84cb-7b894523c856.jpg" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/146310355-ad540d47-c12c-4ff0-a0d1-024ce628c25c.jpg" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/146310356-f2374426-bf0b-4502-868f-3a238ec43ba7.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310357-72404166-62d7-48a7-bbe9-e60a26dbbf80.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310358-bcb7a2fb-5f27-4b84-b90d-6858aa7544ed.jpg" width="200" height="200">
 
 
-7. Lungs segmentation :- An Image processing application for segmenting the lungs from the rest of the image data
+7. Lungs segmentation :- An Image processing application for segmenting the lungs from the rest of the CT scan image dataset
 <img src = "https://user-images.githubusercontent.com/30424951/201451829-78c8f956-d2d8-45c3-9813-d5e0027eb47d.png" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/201451853-78e036f1-d847-4bbf-8d6e-83a87bcf9254.png" width="200" height="200">
 
 
