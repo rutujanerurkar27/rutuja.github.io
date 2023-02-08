@@ -58,3 +58,4 @@ Gesture recognition using deep learning:- This is a deep learning application wh
 <li>Artificial Intelligence</li>
 <li>Healthcare access</li>
 <li>Computational biology</li>
+<li> Image processing </li>
