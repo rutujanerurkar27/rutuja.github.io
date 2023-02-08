@@ -6,9 +6,13 @@ I am a disciplined and passionate individual who is eager to hike my research sk
 ### Research projcets and my work experience till now:-
 
 1. Chronic Kidney Disease detection/AKI analysis (actively working on this project) :- 
-I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. Performed a kidney segmentation for AKI/kidney tumor segmentation which has following results
+I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. Following is the performance of the ML classifer model (the representation of accuracy of the ML model if trained on NN)
 
-      <img src = "https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png" width="200" height="200">
+   <img src = "https://user-images.githubusercontent.com/30424951/217416267-b43de2e2-29f1-4f35-a03a-b19221612e53.png" widht="230" height="230">
+
+For this project, I have also performed a kidney segmentation using Image processing for AKI/kidney tumor segmentation and achieved following results
+
+   <img src = "https://user-images.githubusercontent.com/30424951/216796576-f43798a2-1404-4e16-ac74-4ef1b4c86870.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/216796590-b3752765-fdf3-46ae-bf4a-7d2967f9ffe9.png" width="200" height="200">
 
 
 2. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
