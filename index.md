@@ -57,7 +57,7 @@ This is a deep learning application for tumor classification application which d
 
 <img src="https://user-images.githubusercontent.com/30424951/218895311-f76c06a5-184a-4a6b-9d27-f32c2fd9dd15.png" width="300" height="300">
 
-The below are prediction results of a model(resnet50):
+The below are prediction results of a model(the model i.e. built here is resnet50):
 
 <img src="https://user-images.githubusercontent.com/30424951/218891046-be5bc29c-3a9b-4be3-94bc-220118c1d523.png" width="300" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891049-5cec06e4-7cb4-4683-8f85-ce571c5876fb.png" width="300" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891050-55d3a429-0259-4452-be84-1e4b05afd667.png" width="300" height="250">
 
