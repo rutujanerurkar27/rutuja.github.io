@@ -53,8 +53,13 @@ For this project, I have also performed a kidney segmentation using Image proces
 This is a deep learning/image and video processing application which recognizes the human gestures which are used to give commands to a robot. I worked on this project while I was studying for master's degree program.
        
 #### Tumor classification using deep learning:
+This is a deep learning application for tumor classification application which detects the type of tumor from the input. (The dataset used here is jpeg images) The classes for the classification are as follows:
 
-<img src="https://user-images.githubusercontent.com/30424951/218891046-be5bc29c-3a9b-4be3-94bc-220118c1d523.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891049-5cec06e4-7cb4-4683-8f85-ce571c5876fb.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891050-55d3a429-0259-4452-be84-1e4b05afd667.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891052-269d3e67-80ec-4afb-a86d-ffe0254d5084.png" width="350" height="250">
+<img src="https://user-images.githubusercontent.com/30424951/218895311-f76c06a5-184a-4a6b-9d27-f32c2fd9dd15.png" width="300" height="300">
+
+The below are prediction results of a model:
+
+<img src="https://user-images.githubusercontent.com/30424951/218891046-be5bc29c-3a9b-4be3-94bc-220118c1d523.png" width="300" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891049-5cec06e4-7cb4-4683-8f85-ce571c5876fb.png" width="300" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891050-55d3a429-0259-4452-be84-1e4b05afd667.png" width="300" height="250">
 
 
 #### Skills and Interests
