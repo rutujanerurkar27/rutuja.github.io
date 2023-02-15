@@ -49,9 +49,13 @@ For this project, I have also performed a kidney segmentation using Image proces
    
    (Note:- the above is an agent representation of healthcare device Movesense)
 
-Projects which I worked on working as Research assistant while pursuing my master's degree:-
+#### Gesture recognition using deep learning:
+This is a deep learning/image and video processing application which recognizes the human gestures which are used to give commands to a robot. I worked on this project while I was studying for master's degree program.
+       
+#### Tumor classification using deep learning:
 
-Gesture recognition using deep learning:- This is a deep learning application which recognizes the human gestures which are used to give commands to a robot.
+<img src="https://user-images.githubusercontent.com/30424951/218891046-be5bc29c-3a9b-4be3-94bc-220118c1d523.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891049-5cec06e4-7cb4-4683-8f85-ce571c5876fb.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891050-55d3a429-0259-4452-be84-1e4b05afd667.png" width="350" height="250">  <img src="https://user-images.githubusercontent.com/30424951/218891052-269d3e67-80ec-4afb-a86d-ffe0254d5084.png" width="350" height="250">
+
 
 #### Skills and Interests
 <li>Machine Learning</li>
