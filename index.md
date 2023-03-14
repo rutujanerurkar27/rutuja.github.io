@@ -28,7 +28,7 @@ For this project, I have also performed a kidney segmentation using Image proces
 
 4. Stroke and fibrillation detection(using rPPG):- A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke occured in the past and prediction for future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning in which I used a camera device i.e. a person's face through a camera and is fed to the fibrillation detection algorithm.
 
-   <img src="https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146459980-15da690b-d233-46a6-806c-911506a60bbe.png" width="250" height="200">
+   <img src="https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png" width="200" height="200">
 
 
 5. Fall Detection:- This is also a health care application in which I collected the sensor data using two accelerometer based devices such as android phone, movesense smart device and after gathering the sensor data it is fed to an algorithm to predict if the person has fallen and generate an emergency SOS call. The accuracy of fall detection is 98%.
