@@ -17,7 +17,7 @@ For this project, I have also performed a kidney segmentation using Image proces
     
 2. Body parts segmentation :- This is a image processing and deep learning pipeline for body parts segmentation through CT scan images dataset. (dataset used here is DICOM files/images)
 
-     <img src= "https://user-images.githubusercontent.com/30424951/225187416-b160c8b0-d10a-42a7-a9a8-438725893b67.png" width="300" height="210"> <img src = "https://user-images.githubusercontent.com/30424951/225187447-8e6cab56-6448-428e-90bf-34581fcd8093.png" width="300" height="210">
+     <img src = "https://user-images.githubusercontent.com/30424951/225420225-c4249318-392c-4646-a702-8f3f0349e8de.png" width="300" height="210">   <img src = "https://user-images.githubusercontent.com/30424951/225420235-055d84b0-f678-4a2b-924b-a677c12d6dfa.png" width="300" height="210">
 
 3. Tic Tac Toe human vs computer :- This is a gaming application developed in Java to play Tic Tac Toe between computer and a normal player.
 
