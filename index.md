@@ -21,7 +21,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 
      <img src = "https://user-images.githubusercontent.com/30424951/225420225-c4249318-392c-4646-a702-8f3f0349e8de.png" width="300" height="210">   <img src = "https://user-images.githubusercontent.com/30424951/225420235-055d84b0-f678-4a2b-924b-a677c12d6dfa.png" width="300" height="210">
 
-3. Tic Tac Toe human vs computer:- This is a gaming application developed in Java to play Tic Tac Toe between a computer and a normal player. </br>
+3. Tic Tac Toe human vs computer:- This is a gaming application developed in Java to play Tic Tac Toe between a computer and a normal player.
    Technologies used: Java
 
    ![output_project](https://user-images.githubusercontent.com/30424951/146312318-e75bac64-054b-48af-84e1-882baed002c1.png)
