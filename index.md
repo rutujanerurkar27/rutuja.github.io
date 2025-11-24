@@ -39,7 +39,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
    <img src="https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png" width="200" height="200">
 
 
-7. Fall Detection:- This is also a health care application in which I collected the sensor data using two accelerometer-based devices, such as an Android phone, Movesense smart device, and after gathering the mobile phone's sensor data, it is fed to an algorithm to predict if the person has fallen and generate an emergency SOS call. The accuracy of fall detection is 98%. </br>
+7. Fall Detection:- This is also a health care application in which I collected the sensor data using two accelerometer-based devices, such as an Android phone, Movesense smart device, and after gathering the mobile phone's sensor data, it is fed to an algorithm to predict if the person has fallen and generate an emergency SOS call. The accuracy of fall detection is 98%. 
    Technologies used: Python, Java
 
 
