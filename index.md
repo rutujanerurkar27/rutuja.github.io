@@ -30,7 +30,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 5. Weapons and objects detection using deep learning:- This is a security application that detects weapons such as rifles, hand guns, tanks, etc, along with other objects such as vehicles, human beings, animals, etc, to generate an Amber alert to stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application, I built and trained models to detect various objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone). </br>
    Technologies used: Python, JavaScript(for drone connection)
 
-      <img src="https://user-images.githubusercontent.com/30424951/146305410-42ee0089-0fe8-40b7-9670-2d7494dec3bc.png" width="200" height="800"> <img src="https://user-images.githubusercontent.com/30424951/146309239-13099a99-e921-4866-8f09-e001d4554e36.png" width="200" height="200">
+      <img src="https://user-images.githubusercontent.com/30424951/146305410-42ee0089-0fe8-40b7-9670-2d7494dec3bc.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309239-13099a99-e921-4866-8f09-e001d4554e36.png" width="200" height="200">
 
 
 6. Stroke and fibrillation detection(using rPPG):- A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke that occurred in the past and predict future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning, in which I used a camera device, i.e., a person's face through a camera, and it is fed to the fibrillation detection algorithm. </br>
