@@ -1,7 +1,7 @@
 Hi, I am
 
 ### Rutuja Nerurkar
-I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using my artificial intelligence and machine learning skills. I have been working in the industry as an AI developer for past 3+ years. My areas of working is maininly machine learning, deep learning and medical image analysis(processing). I am mainly into researching computaional biology solutions and development of ML, DL and image processing pipelines for medical imaging analysis and healthcare soultions.
+I am a disciplined and passionate individual who is eager to hike my research skills and utilize them to improve healthcare using my artificial intelligence and machine learning skills. I have been working in the industry as an AI developer for past 4+ years. My areas of working is maininly machine learning, deep learning and medical image analysis(processing). I am mainly into researching computaional biology solutions and development of ML, DL and image processing pipelines for medical imaging analysis and healthcare soultions.
 
 ### Research projcets and my work experience till now:-
 
