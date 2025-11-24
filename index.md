@@ -42,7 +42,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 7. Fall Detection:- This is also a health care application in which I collected the sensor data using two accelerometer-based devices, such as an Android phone, Movesense smart device, and after gathering the mobile phone's sensor data, it is fed to an algorithm to predict if the person has fallen and generate an emergency SOS call. The accuracy of fall detection is 98%. Technologies used: Python, Java
 
 
-8. Body vitals detection(using PPG):- This is an Android application that detects body vitals, and it uses the concepts of PPG, which takes the input from the smartphone’s flashlight and performs extensive image processing to calculate heart rate, respiratory rate, blood pressure, and blood oxygen(SpO2). The accuracy of the values in the algorithm is 97%~98% and the testing was run against the Oxymeters, Apple watch and Samsung Galaxy watches. </br>
+8. Body vitals detection(using PPG):- This is an Android application that detects body vitals, and it uses the concepts of PPG, which takes the input from the smartphone’s flashlight and performs extensive image processing to calculate heart rate, respiratory rate, blood pressure, and blood oxygen(SpO2). The accuracy of the values in the algorithm is 97%~98% and the testing was run against the Oxymeters, Apple watch and Samsung Galaxy watches.
    Technologies used: Java, Kotlin
 
    <img src = "https://user-images.githubusercontent.com/30424951/146310349-2550b80c-953d-4d5d-83f8-02a09be1611b.jpg" width="200" height="200"> <img src ="https://user-images.githubusercontent.com/30424951/146310351-803a7cf3-d23d-492d-8634-ec03035e7a84.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310353-e35945ae-7a4c-4cda-84cb-7b894523c856.jpg" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/146310355-ad540d47-c12c-4ff0-a0d1-024ce628c25c.jpg" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/146310356-f2374426-bf0b-4502-868f-3a238ec43ba7.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310357-72404166-62d7-48a7-bbe9-e60a26dbbf80.jpg" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146310358-bcb7a2fb-5f27-4b84-b90d-6858aa7544ed.jpg" width="200" height="200">
@@ -58,7 +58,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
     &nbsp;&nbsp;&nbsp;&nbsp;![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
 
 #### Gesture recognition using deep learning:
-This is a deep learning/image and video processing application that recognizes human gestures used to give commands to a robot. I worked on this project while pursuing a master's degree program.</br>
+This is a deep learning/image and video processing application that recognizes human gestures used to give commands to a robot. I worked on this project while pursuing a master's degree program.
    Technologies used: C++
        
 #### Tumor classification using deep learning (Python):
