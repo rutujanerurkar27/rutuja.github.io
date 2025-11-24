@@ -5,12 +5,12 @@ I am a disciplined and passionate individual who is eager to hike my research sk
 
 ### Research projcets and my work experience till now:-
 
-1. Chronic Kidney Disease detection/AKI analysis (actively working on this project) :- 
-I have worked on creating a machine learning model which predicts CKD in the early stages by using the least available features. The model that I built uses patients urine and blood test result and gives the CKD prediction. Following is the performance of the ML classifer model (the representation of accuracy of the ML model if trained on NN)
+1. Chronic Kidney Disease detection/AKI analysis :- 
+I worked on Independet research topic at University of Washington under the guiadance of Dr. Shwetak Patel's graduate assistant. Building a machine learning model which predicts CKD in the early stages by using the least available features (24 features). The model that I built uses patients urine and blood test result and gives the CKD prediction. Following is the performance of the ML classifer model (the representation of accuracy of the ML model if trained on NN)
 
    <img src = "https://user-images.githubusercontent.com/30424951/217416267-b43de2e2-29f1-4f35-a03a-b19221612e53.png" widht="230" height="230">
 
-For this project, I have also performed a kidney segmentation using Image processing for AKI/kidney tumor segmentation and achieved following results (the dataset used for the analysis is DICOM files/images)
+For this project, I have also performed a kidney segmentation using Image processing for AKI/kidney tumor segmentation and achieved following results (the dataset used for the analysis is DICOM files/images). Next step in progress:to build a deep learning model using the segmented results.
 
    <img src = "https://user-images.githubusercontent.com/30424951/217444988-30666d11-e588-4a2f-aa15-88bf9efd2e7a.png" width="200" height="200">   <img src ="https://user-images.githubusercontent.com/30424951/217445228-5fad22f7-19ef-42b3-b2a6-cefc7884bd6b.png" width="200" height="200">
     <img src = "https://user-images.githubusercontent.com/30424951/217975360-c6f329c3-b682-4a17-868e-9f66a371231a.png" width="205" height="205">
@@ -67,7 +67,8 @@ The below are prediction results of a model(the model i.e. built here is resnet5
 
 #### Skills and Interests
 <li>Machine Learning</li>
-<li>Artificial Intelligence</li>
-<li>Healthcare access</li>
-<li>Computational biology</li>
+<li> Artificial Intelligence</li>
+<li> Healthcare access</li>
+<li> Computational biology</li>
 <li> Image processing </li>
+<li> Signal Processing </li>
