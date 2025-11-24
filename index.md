@@ -6,7 +6,7 @@ I am a disciplined and passionate individual eager to enhance my research skills
 ### Research projects and my work experience till now:-
 
 1. Chronic Kidney Disease detection/AKI analysis:- 
-I worked on an independent research topic at the University of Washington under the guidance of Dr. Shwetak Patel's graduate assistant. Building a machine learning model that predicts CKD in the early stages by using the least available features (24 features). The model I built uses patients' urine and blood test results to predict CKD. Following is the performance of the ML classifier model (the representation of the accuracy of the ML model if trained on NN) </br>
+I worked on an independent research topic at the University of Washington under the guidance of Dr. Shwetak Patel's graduate assistant. Building a machine learning model that predicts CKD in the early stages by using the least available features (24 features). The model I built uses patients' urine and blood test results to predict CKD. Following is the performance of the ML classifier model (the representation of the accuracy of the ML model if trained on NN) 
    Technologies used: Python
 
    <img width="500" height="300" alt="img1" src="https://github.com/user-attachments/assets/5f5b358b-f723-4835-b789-17c4db6abc73" />
@@ -16,7 +16,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/30424951/217444988-30666d11-e588-4a2f-aa15-88bf9efd2e7a.png" width="200" height="200">  <img src ="https://user-images.githubusercontent.com/30424951/217445228-5fad22f7-19ef-42b3-b2a6-cefc7884bd6b.png" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/217975360-c6f329c3-b682-4a17-868e-9f66a371231a.png" width="205" height="205">
     
-2. Body parts segmentation:- This is an image processing and deep learning pipeline for body parts segmentation through a CT scan image dataset. The DICOM image dataset I used here is from the Radiological Society of North America (RSNA).</br>
+2. Body parts segmentation:- This is an image processing and deep learning pipeline for body parts segmentation through a CT scan image dataset. The DICOM image dataset I used here is from the Radiological Society of North America (RSNA).
    Technologies used: Python
 
      <img src = "https://user-images.githubusercontent.com/30424951/225420225-c4249318-392c-4646-a702-8f3f0349e8de.png" width="300" height="210">   <img src = "https://user-images.githubusercontent.com/30424951/225420235-055d84b0-f678-4a2b-924b-a677c12d6dfa.png" width="300" height="210">
@@ -27,13 +27,13 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
    ![output_project](https://user-images.githubusercontent.com/30424951/146312318-e75bac64-054b-48af-84e1-882baed002c1.png)
 
 
-5. Weapons and objects detection using deep learning:- This is a security application that detects weapons such as rifles, hand guns, tanks, etc, along with other objects such as vehicles, human beings, animals, etc, to generate an Amber alert to stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application, I built and trained models to detect various objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone). </br>
+5. Weapons and objects detection using deep learning:- This is a security application that detects weapons such as rifles, hand guns, tanks, etc, along with other objects such as vehicles, human beings, animals, etc, to generate an Amber alert to stakeholders when a weapon is detected. The accuracy of detection is 99.8% While working on this application, I built and trained models to detect various objects (armed people, rifle, shotgun, machine gun, tanks, etc) in the streaming video (DJI drone). 
    Technologies used: Python, JavaScript(for drone connection)
 
       <img src="https://user-images.githubusercontent.com/30424951/146305410-42ee0089-0fe8-40b7-9670-2d7494dec3bc.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309239-13099a99-e921-4866-8f09-e001d4554e36.png" width="200" height="200">
 
 
-6. Stroke and fibrillation detection(using rPPG):- A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke that occurred in the past and predict future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning, in which I used a camera device, i.e., a person's face through a camera, and it is fed to the fibrillation detection algorithm. </br>
+6. Stroke and fibrillation detection(using rPPG):- A health care application developed by using deep learning for stroke and fibrillation detection to predict heart stroke that occurred in the past and predict future using various facial parameters. Heart rate monitor (EKG monitor) is developed using two methods, the first approach is using deep learning, in which I used a camera device, i.e., a person's face through a camera, and it is fed to the fibrillation detection algorithm. 
    Technologies used: Python, REST APIs
 
    <img src="https://user-images.githubusercontent.com/30424951/146309817-8a37e73c-f9f6-4846-bba2-950e347c9177.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/30424951/146309942-14b3749b-3fe1-41c1-aab2-982971037037.png" width="200" height="200">
@@ -53,7 +53,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 <img src = "https://user-images.githubusercontent.com/30424951/201451829-78c8f956-d2d8-45c3-9813-d5e0027eb47d.png" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/201451853-78e036f1-d847-4bbf-8d6e-83a87bcf9254.png" width="200" height="200">
 
 
-11. Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication. (Note:- the above is an agent representation of healthcare device Movesense) </br>
+11. Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication. (Note:- the above is an agent representation of healthcare device Movesense) 
    Technologies used: Python, Java, and REST APIs
 
     &nbsp;&nbsp;&nbsp;&nbsp;![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
