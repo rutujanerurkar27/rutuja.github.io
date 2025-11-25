@@ -6,7 +6,7 @@ I am a disciplined and passionate individual eager to enhance my research skills
 ### Research projects and my work experience till now:-
 
 1. Chronic Kidney Disease detection/AKI analysis:- 
-I worked on an independent research topic at the University of Washington under the guidance of Dr. Shwetak Patel's graduate assistant. Building a machine learning model that predicts CKD in the early stages by using the least available features (24 features). The model I built uses patients' urine and blood test results to predict CKD. Following is the performance of the ML classifier model (the representation of the accuracy of the ML model if trained on NN) 
+I worked on an independent research topic at the University of Washington under the guidance of Dr. Shwetak Patel's graduate research assistant. Building a machine learning model that predicts CKD in the early stages by using the least available features (24 features). The model I built uses patients' urine and blood test results to predict CKD. Following is the performance of the ML classifier model (the representation of the accuracy of the ML model if trained on NN) 
    Technologies used: Python
 
    <img width="500" height="300" alt="img1" src="https://github.com/user-attachments/assets/5f5b358b-f723-4835-b789-17c4db6abc73" />
