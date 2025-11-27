@@ -21,7 +21,7 @@ I am a disciplined and passionate individual eager to enhance my research skills
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="400" height="400" alt="output3" src="https://github.com/user-attachments/assets/59c28b49-3521-4409-b07b-8fd80c149b68" />
 
-3. Chronic Kidney Disease detection/AKI analysis:- 
+2. Chronic Kidney Disease detection/AKI analysis:- 
 I worked on an independent research topic at the University of Washington under the guidance of Dr. Shwetak Patel's graduate research assistant. Building a machine learning model that predicts CKD in the early stages by using the least available features (24 features). The model I built uses patients' urine and blood test results to predict CKD. Following is the performance of the ML classifier model:
    Technologies used: Python
 
