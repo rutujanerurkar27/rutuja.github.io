@@ -26,7 +26,7 @@ I worked on an independent research topic at the University of Washington under 
    Technologies used: Python
 
    <img width="500" height="300" alt="img1" src="https://github.com/user-attachments/assets/5f5b358b-f723-4835-b789-17c4db6abc73" />
-   <img width="442" height="228" alt="img2" src="https://github.com/user-attachments/assets/433c6ac9-2c96-424f-bad4-8af7d7836dff" />
+   <img width="442" height="300" alt="img2" src="https://github.com/user-attachments/assets/433c6ac9-2c96-424f-bad4-8af7d7836dff" />
 
 For the CKD project, I have also performed a kidney segmentation using Image processing for AKI/kidney tumor segmentation and achieved the following results (the dataset used for the analysis is DICOM files/images). Next step in progress: to build a deep learning model using the segmented results. 
 
