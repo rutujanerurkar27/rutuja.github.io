@@ -9,15 +9,15 @@ I am a disciplined and passionate individual eager to enhance my research skills
 
    • Biosignatures for TB in children using Machine Learning on Proteomics data 
 
-   <img width="500" height="500" alt="output" src="https://github.com/user-attachments/assets/365d1a79-4d43-4971-90ab-ea7288644525" />
+   <img width="400" height="400" alt="output" src="https://github.com/user-attachments/assets/365d1a79-4d43-4971-90ab-ea7288644525" />
 
    • Biosignatures for TB in children using Machine Learning on Metabolomics data
 
-   <img width="500" height="500" alt="AUC_all_ages" src="https://github.com/user-attachments/assets/399ffb94-3d97-49de-ad8a-ac5462823bbd" />
+   <img width="400" height="400" alt="AUC_all_ages" src="https://github.com/user-attachments/assets/399ffb94-3d97-49de-ad8a-ac5462823bbd" />
 
    • 2D CNN Deep learning model using YAMNet embeddings for detecting abnormal CXR lung sounds
 
-   <img width="350" height="400" alt="output1" src="https://github.com/user-attachments/assets/8aec0661-6703-40cb-9b5c-bedb43afa6ea" /> <img width="350" height="400" alt="output" src="https://github.com/user-attachments/assets/ca329d54-903b-42b4-a307-fc2a3e627916" />
+   <img width="350" height="300" alt="output1" src="https://github.com/user-attachments/assets/8aec0661-6703-40cb-9b5c-bedb43afa6ea" /> <img width="350" height="300" alt="output" src="https://github.com/user-attachments/assets/ca329d54-903b-42b4-a307-fc2a3e627916" />
 
    <img width="400" height="400" alt="output3" src="https://github.com/user-attachments/assets/59c28b49-3521-4409-b07b-8fd80c149b68" />
 
