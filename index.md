@@ -17,7 +17,7 @@ I am a disciplined and passionate individual eager to enhance my research skills
 
    • 2D CNN Deep learning model using YAMNet embeddings for detecting abnormal CXR lung sounds
 
-   <img width="350" height="300" alt="output1" src="https://github.com/user-attachments/assets/8aec0661-6703-40cb-9b5c-bedb43afa6ea" /> <img width="350" height="300" alt="output" src="https://github.com/user-attachments/assets/ca329d54-903b-42b4-a307-fc2a3e627916" />
+   <img width="450" height="200" alt="output1" src="https://github.com/user-attachments/assets/8aec0661-6703-40cb-9b5c-bedb43afa6ea" /> <img width="450" height="200" alt="output" src="https://github.com/user-attachments/assets/ca329d54-903b-42b4-a307-fc2a3e627916" />
 
    <img width="400" height="400" alt="output3" src="https://github.com/user-attachments/assets/59c28b49-3521-4409-b07b-8fd80c149b68" />
 
