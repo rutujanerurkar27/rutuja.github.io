@@ -52,7 +52,7 @@ For the CKD project, I have also performed a kidney segmentation using Image pro
 <img src = "https://user-images.githubusercontent.com/30424951/201451829-78c8f956-d2d8-45c3-9813-d5e0027eb47d.png" width="200" height="200"> <img src = "https://user-images.githubusercontent.com/30424951/201451853-78e036f1-d847-4bbf-8d6e-83a87bcf9254.png" width="200" height="200">
 
 
-11. Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication. (Note:- the above is an agent representation of healthcare device Movesense) 
+11. Agents:- It is an AI agent that connects to the fitness watches (Fitbit, Samsung, Apple, Movesense, etc) to retrieve the health statistics to be used for detecting heart diseases and providing them the right type of medication. (Note:- the below is an agent representation of healthcare device Movesense) 
    Technologies used: Python, Java, and REST APIs
 
     &nbsp;&nbsp;&nbsp;&nbsp;![Screenshot from 2021-01-11 19-55](https://user-images.githubusercontent.com/30424951/146312580-f6864b12-4f58-47e6-9eb7-c7bba774d330.png)
