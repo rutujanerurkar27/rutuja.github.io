@@ -7,15 +7,15 @@ I am a disciplined and passionate individual eager to enhance my research skills
 
 1. Research experience UCSF:-
 
-   • Biosignatures for TB in children using Machine Learning on Proteomics data 
+   #### • Biosignatures for TB in children using Machine Learning on Proteomics data 
 
    <img width="400" height="400" alt="output" src="https://github.com/user-attachments/assets/365d1a79-4d43-4971-90ab-ea7288644525" />
 
-   • Biosignatures for TB in children using Machine Learning on Metabolomics data
+   #### • Biosignatures for TB in children using Machine Learning on Metabolomics data
 
    <img width="400" height="400" alt="AUC_all_ages" src="https://github.com/user-attachments/assets/399ffb94-3d97-49de-ad8a-ac5462823bbd" />
 
-   • 2D CNN Deep learning model using YAMNet embeddings for detecting abnormal CXR lung sounds
+   #### • 2D CNN Deep learning model using YAMNet embeddings for detecting abnormal CXR lung sounds
 
    <img width="450" height="200" alt="output1" src="https://github.com/user-attachments/assets/8aec0661-6703-40cb-9b5c-bedb43afa6ea" /> <img width="450" height="200" alt="output" src="https://github.com/user-attachments/assets/ca329d54-903b-42b4-a307-fc2a3e627916" />
 
